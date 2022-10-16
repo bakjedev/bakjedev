@@ -6,7 +6,7 @@ hiiii meow, really good coder (hello world) and gaming (the craft)
 ![Profile views](https://gpvc.arturio.dev/bakjedev)
 
 <details>
-  <summary>Contact</summary>
+  <summary>social things</summary>
   
   - Discord: `bakje#1543`   
   - Youtube: <a href="https://www.youtube.com/channel/UClSmQ8vOvPEfeQZDkCt9QBw">`bakery`</a>
