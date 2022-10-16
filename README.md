@@ -9,5 +9,5 @@ hiiii meow, really good coder (hello world) and gaming (the craft)
   <summary>Contact</summary>
   
   - Discord: `bakje#1543`   
-  - Youtube: `<a href="https://www.youtube.com/channel/UClSmQ8vOvPEfeQZDkCt9QBw">bakery</a>`
+  - Youtube: <a href="https://www.youtube.com/channel/UClSmQ8vOvPEfeQZDkCt9QBw">`bakery`</a>
 </details>
