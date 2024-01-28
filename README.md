@@ -6,5 +6,5 @@ hiiii meow, really good coder (hello world) and gaming
 <details>
   <summary>social things</summary>
   
-  - Discord: `bakje#1543`   
+  - Discord: `bakje`   
 </details>
